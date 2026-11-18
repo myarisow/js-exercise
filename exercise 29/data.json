@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "Mohamed",
+    "city": "Nairobi",
+    "Orders" : [
+      {"id": 1, "product": "mobile", "qauntity": 5}, 
+      {"id": 2, "product": "charger", "qauntity": 10}
+
+    ]
+}
